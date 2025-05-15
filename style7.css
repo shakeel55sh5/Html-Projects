@@ -1,0 +1,16 @@
+div {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    background-image: url("ferari.jpeg");
+    background-size: contain;
+
+}
+div:hover {
+    border: 2px solid red;
+}
+body {
+    background-image: url("ferari.jpeg");
+    background-size: cover;
+   
+}

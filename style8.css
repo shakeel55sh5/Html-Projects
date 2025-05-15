@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+div {
+    height: 100px;
+    width: 100px;
+    /* padding-left: 20px; */
+    display: inline-block;
+    border: 2px solid black;
+    /* position: ; */
+    /* background-color: black; */
+    /* position:fixed; */
+}
+#box1 {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    background-image: url("corvete.jpeg");
+    background-size: cover;
+    position: sticky;
+    top: 10px;
+}
+#box1:hover {
+    color: red;
+    border: 3px solid black;
+    background-image: url("ferari.jpeg");
+}
+#box2 {
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    position: fixed;
+    right: 0;
+    top: 50px;
+    background-image: url("ferari.jpeg");
+    background-size: cover;
+}
+#box3 {
+    height: 300px;
+    width: 300px;
+    color: red;
+    font-size: 20px;
+    text-align: justify;
+    background-image: url("lamborgini.jpeg");
+    background-size: cover;
+    position:sticky;
+}
+#box3:hover {
+    border: 4px dashed pink;
+    color: #00ff00;
+    font-size: 30px;
+    
+}
+#box2:hover {
+    transition: 2 ease-in;
+    
+}

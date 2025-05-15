@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/* div {
+    color: white;
+    
+    height: 80px;
+    background-color: #0f1111;
+    border: 3px;
+    border-color: white;
+    border-style: solid;
+    
+}
+a {
+    text-align: center;
+    text-decoration: none;
+    color: brown;
+    font-size: 25px;
+    padding-right: 200px;
+    border: 2px solid red;
+    border-radius: 10%;
+    transition: ease 2s;
+
+}
+a :hover{
+    
+
+}
+button {
+    background-color: #f08804;
+} */
+
+/* div {
+   height: 60px; 
+   background-color: #0f1111;
+} */
+ /* .color{
+    
+    text-align: center;
+    text-align: justify;
+    height: 200px;
+    width: 80%;
+    border: 2px solid yellow;
+    border-radius: 15%;
+    background-color: aquamarine;
+    transition: 0.5s ease-in;
+ }
+ .color p{
+    margin-top: 100px;
+    text-align: center;
+    transition: 0.5s ease;
+ }
+ p :hover{
+    color: aqua;
+    background-color: blue;
+    cursor: pointer;
+ }
+ .btn{
+    height: 80px;
+    width: 100px;
+    border: 1px solid red;
+    border-radius: 2px;
+
+ }
+ .btn button{
+    width: 100px;
+    height: 100px;
+ } */
+  div {
+    background-color: black;
+    height: 60px;
+    text-decoration: none;
+    padding-left: 10px;
+  }
+  a {
+    
+    color: white;
+    text-decoration: none;
+    padding-right: 200px;
+  }
+  #amazon {
+    color: #f08804;
+    font-size: 25px;
+  }
+  button {
+    background-color: #f08804;
+    border: none;
+  }
+  /* .display {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: none;
+    visibility: none;
+  } */
